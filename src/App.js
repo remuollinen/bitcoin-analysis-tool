@@ -196,7 +196,16 @@ export default class App extends Component {
 					</div>
 				</div>
 				<footer>
-					<p>Copyright &copy; Remu Ollinen 2021</p>
+					<a
+						href="https://github.com/remuollinen/rising-star-2021"
+						target="_blank"
+						rel="noreferrer"
+					>
+						Link to GitHub repo
+					</a>
+					<p>
+						<small>Copyright &copy; Remu Ollinen 2021</small>
+					</p>
 				</footer>
 			</div>
 		);

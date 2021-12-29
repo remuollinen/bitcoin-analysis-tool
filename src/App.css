@@ -85,3 +85,13 @@ footer {
 	width: 100%;
 	padding: 1rem 0;
 }
+
+a {
+	color: white;
+	text-decoration: none;
+	transition: 0.2s ease-in-out;
+}
+
+a:hover {
+	color: rgb(236, 83, 45);
+}
