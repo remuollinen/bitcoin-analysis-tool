@@ -1,6 +1,6 @@
-# Pre-assignment for Vincit Rising Star trainee program
+# Bitcoin market analysis tool
 
-- A small bitoin application made with React
+- A small bitcoin application made with React
 - Cryptocurrency data fetched from [CoinGecko](http://coingecko.com/en/api) API
 
 ## Functionalities
@@ -8,6 +8,12 @@
 - Calculate longest bearish (downward) trend in given date range
 - Find trading day with the highest volume in given date range and the volume in euros
 - Find the best days to buy and sell bitcoin in a given date range
+
+## Usage
+
+1. Select your date range from the two date inputs
+2. Click 'Get data'
+3. The results will be displayed in the cards
 
 ## Resources used
 
