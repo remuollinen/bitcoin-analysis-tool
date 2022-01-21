@@ -197,7 +197,7 @@ export default class App extends Component {
 				</div>
 				<footer>
 					<a
-						href="https://github.com/remuollinen/rising-star-2021"
+						href="https://github.com/remuollinen/bitcoin-analysis-tool"
 						target="_blank"
 						rel="noreferrer"
 					>
